@@ -16,4 +16,4 @@
 
 # Пример результата
 
-`https://dvmn.org/media/lessons/xfiles4.png`
+https://dvmn.org/media/lessons/xfiles4.png
